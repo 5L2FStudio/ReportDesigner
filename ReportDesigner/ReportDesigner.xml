@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configure>
+  <Property Name="Server" Value="./SQL2017" />
+  <Property Name="User" Value="" />
+  <Property Name="Password" Value="" />
+  <Property Name="Database" Value="AdventureWorks2012" />
+</Configure> 
